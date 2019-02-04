@@ -1,5 +1,79 @@
-#logo{
+/*#logo{*/
+    /*height: 105px;*/
+    /*width: 105px;*/
+
+/*}*/
+
+h2{
+    font-size: 48px;
+}
+
+h4{
+    font-size:32px;
+}
+
+h5{
+    font-size:28px;
+}
+a{
+    color:black;
+}
+.container{
+    padding-left:15px;
+    padding-right:15px;
+}
+#logo {
     height: 105px;
     width: 105px;
+    margin-left:auto;
+    margin-right:auto;
 
 }
+
+#sub-heading{
+    padding-top:5px;
+}
+h4{
+    font-size:32px;
+}
+h5{
+    font-size:28px;
+    font-weight:bold;
+}
+#laptop{
+    padding-left:15px;
+    padding-right:15px;
+    margin-left:15px;
+    margin-right:15px;
+    height:350px;
+    width:350px;
+}
+.my-width{
+    padding-left:15px;
+    margin-left:15px;
+}
+.adjustment{
+    padding-right:0px;
+    padding-left:0px;
+
+}
+.adjustment2{
+
+    padding-left:15px;
+    padding-right:15px;
+    width:72px;
+}
+.btn{
+    border-radius:50%;
+    height:18px;
+    width:18px;
+    font-size:5px;
+}
+.big-button{
+    height:105px;
+    width:105px;
+    font-size:20px;
+    font-weight:bold;
+
+}
+
