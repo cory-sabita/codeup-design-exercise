@@ -28,7 +28,7 @@ a{
     color:black;
 }
 
-#logo {
+.logo {
     height: 105px;
     width: 105px;
     margin-left:auto;
@@ -39,15 +39,11 @@ a{
 
 }
 
-#sub-heading{
-    padding-top:5px;
-}
-h4{
-    font-size:32px;
-}
+
 h5{
     font-size:28px;
     font-weight:bold;
+    font-family:Abel, sans-serif;
 }
 img{
     /*padding-left:15px;*/
@@ -74,7 +70,7 @@ img{
     font-size:18px;
     font-weight:bold;
     color:#fff;
-    border:2px solid white;
+    border:4px solid white;
 
 
 }
@@ -104,8 +100,16 @@ img{
     width: 18px;
 }
 
-.margin-r-15{
-    margin-right:15px;
-
+.margin-r-15 {
+    margin-right: 15px;
 }
+
+.line-height{
+    line-height:105px;
+}
+
+
+
+
+
 
