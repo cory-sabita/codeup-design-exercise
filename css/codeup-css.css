@@ -1,5 +1,9 @@
 /*font-family: 'Anton', sans-serif;*/
 /*font-family: 'Abel', sans-serif;*/
+ *{
+     background-color:#E6E6E6;
+
+     }
 
 h2{
     font-size: 48px;
@@ -29,6 +33,8 @@ a{
     width: 105px;
     margin-left:auto;
     margin-right:auto;
+    margin-top:15px;
+    margin-bottom:15px;
 
 }
 
@@ -65,8 +71,31 @@ img{
     font-size:18px;
     font-weight:bold;
     color:#fff;
+    border:2px solid white;
 
 
 }
+.yellow{
+    background-color:#EB9D3B;
+}
+.orange{
+    background-color:#E6563A;
+}
+.green{
+    background-color:#7CB06C;
+}
+.blue{
+    background-color:#00ABA9;
 
+
+}
+.col-1{
+    margin-right:15px;
+    padding:0;
+}
+#twit{
+    color:blue;
+    height:18px;
+    width:18px;
+}
 
