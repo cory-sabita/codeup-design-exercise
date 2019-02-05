@@ -39,7 +39,9 @@ a{
 
 }
 
-
+.font-anton{
+    font-family: 'Anton', san-serif;
+}
 h5{
     font-size:28px;
     font-weight:bold;
